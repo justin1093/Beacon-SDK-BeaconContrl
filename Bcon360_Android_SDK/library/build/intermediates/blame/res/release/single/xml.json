@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\xml\\backup_rules.xml",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\xml\\backup_rules.xml",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\src\\main\\res\\xml\\backup_rules.xml"
+    }
+]

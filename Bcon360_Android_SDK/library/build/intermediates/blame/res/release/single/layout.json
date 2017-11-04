@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout\\act_web_view.xml",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\src\\main\\res\\layout\\act_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout\\act_web_view.xml",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\src\\main\\res\\layout\\act_web_view.xml"
+    }
+]

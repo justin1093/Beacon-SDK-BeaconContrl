@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Beacon-SDK-BeaconControl\\Bcon360_Android_SDK\\library\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Justin\\AndroidStudioProjects\\Bcon360_Android_SDK\\library\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
